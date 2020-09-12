@@ -16,6 +16,6 @@ Project Repository Link:
 https://github.com/victoriacmlee/code-quiz
 
 Project Web Link:
-https://victoriacmlee.github.io/code-quiz/.
+https://victoriacmlee.github.io/code-quiz/
 
 Project Screenshots in images folder.
